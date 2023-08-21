@@ -22,7 +22,7 @@ const inappropriateWords = [
     'me cago en la puta', 'hijos de la gran puta', 'chupame la verga', 'chúpame los huevos', 'cómete un moco', 'comemierda',
     'comecacas', 'eres una mierda', 'me importa un cojón', 'no me importa una mierda', 'me suda la polla', 'me importa un pepino',
     'me suda la pija', 'me importa un rábano', 'me importa un carajo', 'eres un estorbo', 'eres un maldito', 'no vales nada',
-    'mierdoso', 'me cago en todo lo que te rodea', 'hazme el favor de chingar a tu madre', 'vete a la mierda y no vuelvas'
+    'mierdoso', 'me cago en todo lo que te rodea', 'hazme el favor de chingar a tu madre', 'vete a la mierda y no vuelvas', 'Funando el servidor'
     // Continúa agregando más palabras aquí...
   ];
 
